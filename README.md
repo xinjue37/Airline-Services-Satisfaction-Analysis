@@ -3,8 +3,8 @@ Author: Ng Zheng Jue, Ong Ming Jie, Tan Hong Guan
 
 * This is a project developed in undergraduate Year 3 - Semester 1.
 * The repository consists
-    * 1 Jupyter notebook file that contains code about  
-    * If you are interested how it implemented, you can see the **Report.pdf** for details
+    * 1 Jupyter notebook file that contains code about pre-processing the airline services satisfaction data, choose the most relavant features from it, and perform factor analysis to find the factor of the features.
+    * If you are interested how it implemented and more details, you can see the **Report.pdf** for details
 * The data we used are [Kaggle Airline Passenger Satisfaction](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction)
 
 ## Abstract
