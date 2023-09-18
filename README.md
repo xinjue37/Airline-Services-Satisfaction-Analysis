@@ -4,7 +4,7 @@ Author: Ng Zheng Jue, Ong Ming Jie, Tan Hong Guan
 * This is a project developed in undergraduate Year 3 - Semester 1.
 * The repository consists
     * 1 Jupyter notebook file that contains code about  
-    * If you are interested how it implemented, you can see the **report.pdf** for details
+    * If you are interested how it implemented, you can see the **Report.pdf** for details
 * The data we used are [Kaggle Airline Passenger Satisfaction](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction)
 
 ## Abstract
