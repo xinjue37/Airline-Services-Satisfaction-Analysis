@@ -1,5 +1,5 @@
 # Undergraduate-Y3S1-Airline-Services-Satisfaction-Analysis
-Author: Ng Zheng Jue, Ong Ming Jie, Tan Hong Guan
+Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), Tan Hong Guan
 
 * This is a project developed in undergraduate Year 3 - Semester 1.
 * The repository consists
