@@ -2,10 +2,11 @@
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Tan Hong Guan](https://github.com/tanhg1116)
 
 * This is a project developed in undergraduate Year 3 - Semester 1.
+* This repository consists of solving data science problems on [Kaggle Airline Passenger Satisfaction Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction) by performing data visualization, feature extraction and factor analysis.
 * The repository consists
     * 1 Jupyter notebook file that contains code about pre-processing the airline services satisfaction data, choose the most relavant features from it, and perform factor analysis to find the factor of the features.
-    * If you are interested in how it is implemented and more details, you can see the **Report.pdf** for details. In the report, we also involve the possible naming of each of the factors based on the features assigned to it and ranking the importance of each feature using Random Forest to help the airline services to prioritize the improvement on those factors.
-* The data we used are [Kaggle Airline Passenger Satisfaction](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction)
+    * The detail explanation of the each of the methods used and analyzed result can be found in the [Report.pdf](https://github.com/xinjue37/Airline-Services-Satisfaction-Analysis/blob/main/Report.pdf). In the report, we also involve the possible naming of each of the factors based on the features assigned to it and ranking the importance of each feature using Random Forest to help the airline services to prioritize the improvement on those factors.
+
 
 ## Abstract
 The airline industry continues to remain as one of the most competitive industries. All
