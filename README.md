@@ -1,7 +1,7 @@
 # Airline Services Satisfaction Analysis
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Tan Hong Guan](https://github.com/tanhg1116)
 
-* This is a project developed in undergraduate Year 3 - Semester 1.
+* This is a project developed in undergraduate Year 3 - Semester 1 in the course (**Statistical Learning**).
 * This repository consists of **solving data science problems** on [Kaggle Airline Passenger Satisfaction Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction) by performing data visualization, feature extraction and factor analysis.
 * The repository consists
     * 1 Jupyter notebook file that contains code about pre-processing the airline services satisfaction data, choose the most relavant features from it, and perform factor analysis to find the factor of the features.
